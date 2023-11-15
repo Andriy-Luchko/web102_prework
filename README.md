@@ -2,7 +2,7 @@
 
 Submitted by: Andriy Luchko
 
-Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaMonster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 3 hours spent in total
 
@@ -17,8 +17,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
 - [x] Added another button to show all the games sorted by the amount funded
 - [x] Added hover effects to the buttons too
 
@@ -26,7 +24,20 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/e2TuoRB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Intro text
+![chrome_JzIBIGkwhP](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/51b95513-3968-4849-9e4f-5ffbc966b461)
+## Stats
+![chrome_V41WXB7HEe](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/01f99b2c-c0d9-4566-a840-eafac6906386)
+## All Games
+![chrome_4CxZvvl4uE](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/1ed872ef-fc6b-43f1-bee7-6805a3fad0bd)
+## Unfunded Games
+![chrome_qA5v88H9BM](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/0a41e703-13a4-4bae-b233-22ddbd1e4ec5)
+## Funded Games
+![chrome_IQM3xUKplC](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/d860b139-be9d-4e3e-8647-4139a6d033fa)
+## Sorted Games
+![chrome_8yXwbBn1Us](https://github.com/Andriy-Luchko/web102_prework/assets/112499339/70cf0438-b97b-4701-9bfd-76015088f1e3)
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
